@@ -1,0 +1,4 @@
+name: HealthScale
+version: '${project.version}'
+main: goldenshadow.healthscale.HealthScale
+api-version: '1.20'
